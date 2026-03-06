@@ -1,0 +1,8 @@
+"item_id";"order_id";"item_name";"price";"quantity"
+1;101;"Paneer Butter Masala";250.0;1
+2;101;"Butter Naan";50.0;4
+3;102;"Pepperoni Pizza";600.0;1
+4;103;"Dal Fry";200.0;1
+5;103;"Jeera Rice";150.0;1
+6;104;"Chicken Biryani";400.0;2
+7;105;"Veg Burger";150.0;2
