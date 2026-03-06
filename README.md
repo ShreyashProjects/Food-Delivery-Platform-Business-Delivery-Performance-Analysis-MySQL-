@@ -1,4 +1,3 @@
-# Food-Delivery-Platform-Business-Delivery-Performance-Analysis-MySQL-
 # Food Delivery Platform – Business & Delivery Performance Analysis (MySQL)
 
 ## Project Overview
